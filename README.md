@@ -6,3 +6,5 @@ privet
 nastya privet
 
 hello1
+
+короткая правка
